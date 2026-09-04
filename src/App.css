@@ -182,3 +182,11 @@
     border-right-color: var(--border);
   }
 }
+
+/* my styles */
+.red {
+  border: 2px solid red;
+}
+.green {
+  border: 2px solid green;
+}
